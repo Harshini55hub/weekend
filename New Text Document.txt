@@ -1,1 +1,1 @@
-devOps V1
+devOps V1.0
